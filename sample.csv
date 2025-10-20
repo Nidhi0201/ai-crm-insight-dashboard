@@ -1,0 +1,11 @@
+customer_id,tenure_months,monthly_spend,tickets_last_90d,segment,churn
+C001,12,49.9,0,SMB,0
+C002,4,19.0,3,SMB,1
+C003,30,120.0,1,Enterprise,0
+C004,7,35.0,4,MidMarket,1
+C005,18,80.0,0,MidMarket,0
+C006,3,22.0,5,SMB,1
+C007,9,60.0,2,SMB,0
+C008,6,25.0,3,MidMarket,1
+C009,24,95.0,0,Enterprise,0
+C010,2,15.0,6,SMB,1
