@@ -4,6 +4,17 @@ A full‑stack, AI‑powered CRM dashboard that leverages machine learning to pr
 It combines real‑time analytics, customer management, and predictive modeling to help teams make data‑driven decisions.
 
 ---
+Live demo: [`https://aicrminsight.netlify.app`](https://696746489ecffc808cd0f0ca--aicrminsight.netlify.app)
+
+An end‑to‑end, **AI‑powered CRM insights demo**.  
+You upload a CSV of customers, the backend trains a simple churn model, and the frontend shows:
+
+- **Who is most likely to churn**
+- **Overall churn rate and model quality**
+- **Which features are driving churn**
+- **Per‑customer recommendations** (e.g. reach out now vs. normal follow‑up)
+
+---
 
 ## ✨ Overview
 
